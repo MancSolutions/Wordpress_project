@@ -1,4 +1,5 @@
 #!/bin/bash
+#This updates Ubuntu 
 sudo apt -y update
 sudo apt -y upgrade
 sudo git clone https://github.com/MancSolutions/Wordpress_project.git /root/wordpress-app
